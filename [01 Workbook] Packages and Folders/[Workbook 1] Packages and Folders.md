@@ -13,7 +13,7 @@
 
 #### STEP 1. IBM webMethods Designer 를 열고 기본 workspace을 유지한 다음 Use this as the default and do not ask again 옆의 상자를 선택합니다.
 
-![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled.png)
+![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%/Untitled.png)
 
 #### STEP 2. Designer 에서 IS 개발 환경 화면인 Service Development 화면을 엽니다.
 
