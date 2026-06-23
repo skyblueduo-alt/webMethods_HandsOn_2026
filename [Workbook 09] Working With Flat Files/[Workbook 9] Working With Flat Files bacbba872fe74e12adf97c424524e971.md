@@ -99,8 +99,4 @@ Nth Field는 스키마의 정의에 따라 Field를 구분하는 방식
 
 ![Untitled](%5BWorkbook%209%5D%20Working%20With%20Flat%20Files%20bacbba872fe74e12adf97c424524e971/Untitled%2016.png)
 
-## Check Your Understanding
-#### QUIZ 1. Flat files 을 XML 문서처럼 가져올 수 없는 이유는 무엇입니까?
-#### QUIZ 2. N번째 필드의 의미는 무엇입니까?
-#### QUIZ 3. Dictionary 와 schema 의 차이점은 무엇입니까?
-#### QUIZ 4. Schema 가 완성되었을 때 IS document type 을 생성해야 하는 이유는 무엇입니까?
+
