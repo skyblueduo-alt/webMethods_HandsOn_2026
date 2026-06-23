@@ -25,8 +25,3 @@ webMethods 내 Built-in 된 **pub.string** 폴더 아래는 이와 같은 서비
 #### STEP 3. 샘플 입력값으로 서비스를 저장하고 실행하세요. 반환된 값이 올바른지 확인하세요. 
 ![Untitled](%5BWorkbook%207%5D%20Create%20a%20Java%20Service%20dbc34d756ea943a2a8c1a6aaf20da91c/Untitled%203.png)
 
-## Check Your Understanding
-
-#### QUIZ 1. endsWith 서비스의 Java 코드 각 라인이 정확히 어떤 역할을 하나요?
-#### QUIZ 2. 이 서비스는 스레드가 안전한가요? 그렇지 않다면 어떻게 해야 하나요?
-#### QUIZ 3. 커서 처리를 어떻게 개선할 수 있을까요?
