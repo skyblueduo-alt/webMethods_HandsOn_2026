@@ -77,15 +77,3 @@
 ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/Untitled%2012.png)
 
 
-
-## Check Your Understanding
-
-#### QUIZ 1. Document 를 Publish 할 수 있게 되면 어떻게 되는지?
-
-#### QUIZ 2. 스토리지 유형 = 보장된 경우 게시 가능한 속성 폐기 및 존속 시간에 대한 적절한 운영 설정은 무엇인지?
-
-#### QUIZ 3. Publishing 을 위해서는 어떤 오브젝트들이 필요한지? (2개)
-
-#### QUIZ 4. Subscribing 을 위해서는 어떤 오브젝트들이 필요한지? (3개)
-
-#### QUIZ 5. handleValdiation 서비스에서 전체 document type 이름을 인수 이름으로 사용해야 하는 이유는 무엇인지?
