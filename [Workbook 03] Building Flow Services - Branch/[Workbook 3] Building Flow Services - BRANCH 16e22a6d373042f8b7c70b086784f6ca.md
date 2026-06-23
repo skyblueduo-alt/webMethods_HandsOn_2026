@@ -88,6 +88,4 @@
     
 ![Untitled](%5BWorkbook%203%5D%20Building%20Flow%20Services%20-%20BRANCH%2016e22a6d373042f8b7c70b086784f6ca/Untitled%2011.png)
 
-## Check Your Understanding
-#### QUIZ 1. BRANCH에서 정규 표현식은 언제 유용합니까?
-#### QUIZ 2. BRANCH 문의 속성인 switch 와 Evaluate labels=true 속성은 결합하여 사용할 수 있습니까?
+
