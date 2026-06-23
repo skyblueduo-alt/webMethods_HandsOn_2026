@@ -94,9 +94,4 @@
 ![Untitled](%5BWorkbook%202%5D%20Create%20a%20Flow%20Service%2090fb770fe9c045f9bab8e6e47c8e0b37/chapter2_10.png)
 
 
-##  Check Your Understanding
 
-#### QUIZ 1. Service의 순서가 중요한 이유는 무엇입니까?
-#### QUIZ 2. string:toUpper service는 몇 개의 input값을 받을 수 있습니까?
-#### QUIZ 3. server log는 어디에 표시됩니까?
-#### QUIZ 4. pub.string:toUpper service의 output 값을 매핑할 필요가 없는 무엇입니까?
