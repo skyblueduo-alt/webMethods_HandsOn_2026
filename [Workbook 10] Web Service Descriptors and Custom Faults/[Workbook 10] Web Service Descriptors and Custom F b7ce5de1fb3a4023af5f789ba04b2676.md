@@ -113,10 +113,4 @@
     
 
 
-## Check Your Understanding
 
-#### QUIZ 1. provider WSD는 언제, consumer WSD는 언제 만들어지는지?
-
-#### QUIZ 2. 웹 서비스 커넥터(WSC)는 언제 어떻게 만들어지는지?
-
-#### QUIZ 3. 둘 이상의 사용자 지정 SOAP 오류 문서를 가질 수 있는지?
