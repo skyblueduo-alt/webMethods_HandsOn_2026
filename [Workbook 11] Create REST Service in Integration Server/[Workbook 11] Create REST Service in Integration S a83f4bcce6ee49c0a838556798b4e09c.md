@@ -75,10 +75,4 @@
 - headers/Content-type : application/json
 
 
-## Check Your Understanding
 
-#### QUIZ 1. HTTP Methods 인 GET, POST, PUT, DELETE 각 작업의 차이점은 무엇입니까?
-
-#### QUIZ 2. book list 는 어디에서 불러옵니까?
-
-#### QUIZ 3.  **pub.client.http** 를 호출할 때 자격 증명을 지정해야 하는 이유는 무엇입니까?
