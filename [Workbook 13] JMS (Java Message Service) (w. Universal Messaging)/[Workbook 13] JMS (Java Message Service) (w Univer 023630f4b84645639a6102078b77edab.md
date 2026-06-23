@@ -99,9 +99,3 @@ Universal Messaging 서버 구성 참고 - Universal Messaging Enterprise Manage
 
 ![Untitled](%5BWorkbook%2013%5D%20JMS%20(Java%20Message%20Service)/Untitled%2015.png)
 
-
-## Check Your Understanding
-
-#### QUIZ 1. Topic 과 Queue 의 차이는 무엇인가?
-
-#### QUIZ 2. JMS 메시지 유형에는 어떤 것들이 있는지? (5가지)
