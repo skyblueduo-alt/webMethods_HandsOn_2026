@@ -355,7 +355,4 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 ---
 
-## Check Your Understanding
 
-#### QUIZ 1. Adapter service 를 생성 하기 전에 IS 관리자 페이지에서 어떤 설정들이 선행되어야 합니까?
-#### QUIZ 2. Select Adapter Service 의 Results Field 와 Insert Adapter Service 의 Results Field 의 차이점은 무엇입니까?
