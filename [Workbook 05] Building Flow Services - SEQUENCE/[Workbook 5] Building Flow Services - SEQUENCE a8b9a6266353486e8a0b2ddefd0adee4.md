@@ -90,8 +90,6 @@
 - **성공하려면 /webM/IS01/test.txt 를 입력합니다. 성공적으로 실행되면 파일 내용이 Results 탭에 표시되고 IS Server log에 error message가 표시되지 않습니다.**
 
 
-## Check Your Understanding
-#### QUIZ 1. 실패할 것을 알고 있는 서비스를 사용할 때 Flowservice 내부에서 어떻게 에러를 처리할 수 있습니까? (2가지 방법)
-#### QUIZ 2. riskyOperation service 가 실행 되면 어떻게 되나요?
+
 
 
