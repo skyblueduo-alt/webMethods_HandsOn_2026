@@ -152,8 +152,4 @@
   
     ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/Untitled%2023.png)  
 
-## Check Your Understanding
 
-#### QUIZ 1. Transformer와 일반 서비스 간의 차이는 무엇인가요?
-
-#### QUIZ 2. 원하는 Transformer가 Transformer 드롭 다운 목록에 없는 경우 어떻게 해야하나요?
