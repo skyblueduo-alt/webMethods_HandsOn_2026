@@ -126,8 +126,4 @@
     
 
 
-## Check Your Understanding
 
-#### QUIZ 1. 서비스에 HTTP URL 별칭을 사용하는 이유와 시기는 언제 입니까?
-#### QUIZ 2. SMTP 서버는 어디에 구성되어 있습니까?
-#### QUIZ 3. FTP 서비스를 사용한 get, put 명령은 무엇을 의미합니까?
