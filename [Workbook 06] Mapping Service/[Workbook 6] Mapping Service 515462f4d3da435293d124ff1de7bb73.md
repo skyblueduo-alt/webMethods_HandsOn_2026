@@ -20,7 +20,7 @@
 
   - 최상위 폴더 아래 IF0005 와 svc 폴더를 생성한 후, svc_IF0005_implicitMap라는 Flow service를 생성하세요. 
     
-  ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/Untitled.png)
+  ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/2.png)
     
   - pub.math:divideInts 서비스 단계를 추가합니다.
 
