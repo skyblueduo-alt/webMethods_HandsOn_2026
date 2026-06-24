@@ -69,12 +69,5 @@
     
    ![Untitled](%5BWorkbook%2011%5D%20Create%20REST%20Service%20in%20Integration%20S%20a83f4bcce6ee49c0a838556798b4e09c/Untitled%2014.png)
     
-- url : ***http://{Host:Port}***/rad/acme.PurchaseOrder.work.REST:bookInformation_RD/getBook
-- method : get
-- auth/type : basic
-- auth/user : Administrator
-- auth/pass : manage
-- headers/Content-type : application/json
-
 
 
