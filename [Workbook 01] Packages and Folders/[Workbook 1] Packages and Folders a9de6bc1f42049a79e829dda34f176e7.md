@@ -25,7 +25,7 @@
 
 ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/167b22ea-9c09-4378-bb90-dc947074fcd2.png)
 
-![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/new1.png)
+![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled1.png)
 
 - 접속정보 
   - Name : 디자이너에서 접속할 IS 서버의 별칭 지정 (ex. IS_74)
@@ -35,7 +35,7 @@
   - Password: 제공된 계정
 
 
-#### STEP 4. 본 연습에서는 실습자 본인의 소속회사 + 이니셜을 사용하여 New package를 만듭니다. (ex. CUDO_SJH) 
+#### STEP 4. 본 연습에서는 제공된 EDUxxxx 계정을 사용해서 패키지를 생성합니다. (ex. EDU0000) 
 
 - 패키지는 Package Navigator 에서 우클릭 New > Package 를 클릭하여 생성 할 수 있습니다.
 
@@ -45,7 +45,7 @@
 
 **Note.** Package 와 Folder의 네이밍 룰은 고객사 별로 상이하게 관리하며, 일반적으로 IFID을 포함하여 생성합니다. (ex. IFID_소스시스템명_타겟시스템명)   
 
-#### STEP 5. 생성 된 package에서 “소속 + 이니셜” 동일한 명칭의 Folder를 만듭니다.
+#### STEP 5. 생성 된 package에서 제공된 계정 동일한 명칭의 Folder를 만듭니다.
 
 ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled%206.png)
 
