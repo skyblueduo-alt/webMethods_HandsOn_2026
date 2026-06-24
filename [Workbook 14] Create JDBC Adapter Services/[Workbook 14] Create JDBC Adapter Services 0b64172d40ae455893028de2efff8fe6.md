@@ -31,15 +31,14 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
   **DB 접속 정보**
   
     - Folder Name : CUDO_Conn.ORA
-    - Connection Name : {회사명}_{이니셜} (ex. CUDO_SJH)
+    - Connection Name : CUDO_ORACLE
     - Transaction Type : LOCAL_TRANSACTION
     - DataSource Class : oracle.jdbc.pool.OracleDataSource
-    - Server Name : 192.168.1.54
-    - User : {회사명}_{이니셜} 
-    - password : {회사명}_{이니셜}
-    - Database Name : XE
+    - Server Name : 211.238.108.76
+    - User : edu00xx ( edu + 자리번호 ) 
+    - password : edu00xx! ( edu + 자리번호 + ! )
     - Port Number : 1521
-    - Other Properties : driverType=Thin
+    - Other Properties : driverType=thin;serviceName=XEPDB1
     - Minimum Pool Size : 0
 
       **계정 문제로 접속이 되지 않을 시 문의 부탁드립니다.**
@@ -93,7 +92,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new5.png)
 
-- 개인별로 미리 생성 된 계정 (회사명_이니셜) 과 동일한 이름의 Schema 로 접속하여 SRC_EMPLOYEES_TABLE 을 선택 후 OK 를 누릅니다.
+- 개인별로 미리 생성 된 계정 (edu + 자리번호 ) 과 동일한 이름의 Schema 로 접속하여 SRC_EMPLOYEES_TABLE 을 선택 후 OK 를 누릅니다.
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new6.png)
 
