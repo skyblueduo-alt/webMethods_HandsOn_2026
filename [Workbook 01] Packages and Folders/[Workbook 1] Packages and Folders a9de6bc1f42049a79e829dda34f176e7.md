@@ -28,11 +28,11 @@
 ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/new1.png)
 
 - 접속정보 
-  - Name : 디자이너에서 접속할 IS 서버의 별칭 지정 (ex. IS_75)
-  - Host: 211.238.108.75
+  - Name : 디자이너에서 접속할 IS 서버의 별칭 지정 (ex. IS_74)
+  - Host: 211.238.108.74
   - Port : 5555
-  - User : Administrator
-  - Password: manage
+  - User : 제공된 계정
+  - Password: 제공된 계정
 
 
 #### STEP 4. 본 연습에서는 실습자 본인의 소속회사 + 이니셜을 사용하여 New package를 만듭니다. (ex. CUDO_SJH) 
