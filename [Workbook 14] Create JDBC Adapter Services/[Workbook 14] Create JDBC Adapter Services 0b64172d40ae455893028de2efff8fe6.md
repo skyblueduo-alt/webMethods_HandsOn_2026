@@ -49,7 +49,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 - Save Connection 을 눌러 생성 된 본인의 커넥션을 확인 후 Enbled 의 no 를 yes로 변경하여 커넥션을 활성화 합니다.
 
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/Untitled%203.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/JDBC_Connect.png)
 
 - Designer 로 돌아가 Package Navigator 서버에서 우클릭 Refresh 하여 커넥션 컴포넌트가 생성 되었는지 확인합니다.
 
