@@ -64,7 +64,7 @@
  - api (REST API용 폴더 예시)
  - svc (Flow Service용 폴더 예시)
 
-![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled8.png)
+![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled9.png)
 
 **참고:** 이 폴더들을 모두 정확한 위치에 놓으려면 매번 폴더를 생성할 상위 폴더에 마우스 오른쪽 단추로 클릭하고 New -> Folder를 선택합니다. 만약 이름을 잘못 입력한 경우에는 마우스 오른쪽 단추로 클릭하고 Rename을 선택합니다.
 
