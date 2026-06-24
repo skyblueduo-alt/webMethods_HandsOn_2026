@@ -35,8 +35,8 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
     - Transaction Type : LOCAL_TRANSACTION
     - DataSource Class : oracle.jdbc.pool.OracleDataSource
     - Server Name : 211.238.108.76
-    - User : edu00xx ( edu + 자리번호 ) 
-    - password : edu00xx! ( edu + 자리번호 + ! )
+    - User : edu0000 ( edu + 자리번호 ) 
+    - password : edu0000! ( edu + 자리번호 + ! )
     - Port Number : 1521
     - Other Properties : driverType=thin;serviceName=XEPDB1
     - Minimum Pool Size : 0
