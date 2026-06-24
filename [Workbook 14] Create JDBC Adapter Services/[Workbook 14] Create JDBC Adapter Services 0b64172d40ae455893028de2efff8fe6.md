@@ -80,7 +80,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - 다음 화면에서는 IS 관리자 웹 페이지에서 생성 한 JDBC 커넥션 리스트를 확인하실 수 있습니다. 본인이 생성한 Connection 명을 선택 하시고 Next 를 누릅니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new3.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/alias.png)
 
 - 실행 할 쿼리문의 템플릿을 선택합니다. JDBC Adapter 는 GUI 환경에서 개발 할 수 있도록 미리 생성 된 템플릿을 사용하여 쿼리문 서비스를 수행합니다. SelectSQL 을 선택 후 Finish 를 눌러 생성합니다.
 
