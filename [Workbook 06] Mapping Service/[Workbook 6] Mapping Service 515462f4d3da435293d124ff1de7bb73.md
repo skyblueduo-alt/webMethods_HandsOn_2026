@@ -98,7 +98,7 @@
 
   - 최상위 폴더 아래 IF0005 와 그 하위 폴더 svc를 생성합니다. svc 폴더 아래 svc_IF0005_setValueMap라는 Flow service를 생성하세요.
     
-  ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/Untitled%2012.png)
+  ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/4.png)
     
   - pub.math:addInts 서비스를 호출 해줍니다.
 
