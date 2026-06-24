@@ -90,11 +90,11 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - 다음은 생성 된 Adapter Service 개발 방법 입니다. 생성 된 Select Adpater 의 Table 탭에서는 Select 쿼리문을 수행 할 테이블을 선택할 수 있습니다. ... 아이콘을 클릭합니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new5.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/select_table.png)
 
 - 개인별로 미리 생성 된 계정 (edu + 자리번호 ) 과 동일한 이름의 Schema 로 접속하여 SRC_EMPLOYEES_TABLE 을 선택 후 OK 를 누릅니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new6.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/schema.png)
 
 **스키마가 보이지 않거나, 테이블이 없는 경우 문의해주세요**
 
