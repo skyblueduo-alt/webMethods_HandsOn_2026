@@ -72,7 +72,7 @@
  - **consumer (Consumer 용** **폴더)**
  - **provider (Provider 용** **폴더)**
 
-   ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled%209.png)
+   ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled10.png)
 
    
 
