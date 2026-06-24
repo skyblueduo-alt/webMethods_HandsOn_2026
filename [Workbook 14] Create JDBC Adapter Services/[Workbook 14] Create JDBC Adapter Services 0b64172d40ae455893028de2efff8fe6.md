@@ -140,9 +140,9 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - Adapter Service 명은 IF0013_SRC_I_01 로 입력 후 이후 본인이 생성한 동일한 커넥션을 선택합니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new13.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/Designer_Adapter_Create_Insert.png)
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new14.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/alias.png)
 
 - InsertSQL 을 선택 후 Finish
 
@@ -154,7 +154,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - 테이블은 동일하게 본인 스키마 안에 있는 SRC_EMPLOYEES_TABLE 테이블을 선택합니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new17.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/schema.png)
 
 - Adapter Service 저장 후 INSERT 탭으로 가서 테이블에 INSERT 할 필드들을 선택합니다.
 
