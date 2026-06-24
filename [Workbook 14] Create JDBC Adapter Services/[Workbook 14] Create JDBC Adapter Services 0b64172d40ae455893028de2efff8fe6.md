@@ -193,7 +193,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - Adapter Service 명은 IF0013_SRC_U_01 로 입력 후 이후 본인이 생성한 동일한 커넥션을 선택, UpdateSQL 템플릿을 선택후 Finish 를 눌러 생성합니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new24.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/Designer_Adapter_Create_update.png)
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new25.png)   
 
@@ -201,7 +201,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new26.png)
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new27.png)  
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/schema.png)  
 
 - UPDATE 탭에서 Update 를 수행할 필드를 선택합니다. EAI_FLAG 값을 선택 후 Expression 에 'Y' 로 입력합니다.
 
@@ -239,7 +239,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - Adapter Service 명은 IF0013_SRC_BU_01 로 입력 후 이후 본인이 생성한 동일한 커넥션을 선택, BatchUpdateSQL 템플릿을 선택후 Finish 를 눌러 생성합니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new34.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/Designer_Adapter_Create_BU.png)
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new35.png)   
 
