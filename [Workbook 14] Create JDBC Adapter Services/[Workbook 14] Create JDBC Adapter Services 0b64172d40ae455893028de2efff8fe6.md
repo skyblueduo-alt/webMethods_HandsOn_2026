@@ -350,8 +350,8 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 - 개발 예시
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new56.png)
-![Untitled]([Workbook 14] Create JDBC Adapter Services/[Workbook 14] Create JDBC Adapter Services de5383e748184e9dbd34a7cff5d5864d/IF_Example.png)
-[Workbook 14] Create JDBC Adapter Services/[Workbook 14] Create JDBC Adapter Services de5383e748184e9dbd34a7cff5d5864d/IF_Example.png
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%de5383e748184e9dbd34a7cff5d5864d/IF_Example.png)
+
 
 ---
 
