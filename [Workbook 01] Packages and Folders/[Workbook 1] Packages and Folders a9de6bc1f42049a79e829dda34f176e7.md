@@ -25,7 +25,8 @@
 
 ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/167b22ea-9c09-4378-bb90-dc947074fcd2.png)
 
-![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled 1.png)
+![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled1.png)
+
 
 - 접속정보 
   - Name : 디자이너에서 접속할 IS 서버의 별칭 지정 (ex. IS_74)
