@@ -78,7 +78,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new2.png)
 
-- 다음 화면에서는 IS 관리자 웹 페이지에서 생성 한 JDBC 커넥션 리스트를 확인하실 수 있습니다. 본인이 생성한 Connection 명을 선택 하시고 Next 를 누릅니다.
+- 다음 화면에서는 IS 관리자 웹 페이지에서 생성 한 JDBC 커넥션 리스트를 확인하실 수 있습니다. 아래와 같이 Connection 명을 선택 하시고 Next 를 누릅니다.
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/alias.png)
 
