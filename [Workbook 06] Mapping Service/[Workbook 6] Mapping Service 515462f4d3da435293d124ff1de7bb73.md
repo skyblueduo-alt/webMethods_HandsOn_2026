@@ -132,7 +132,7 @@
 
   - 최상위 폴더 아래 IF0005 와 그 하위 폴더 svc를 생성합니다. svc 폴더 아래 svc_IF0005_transformer 라는 서비스를 생성 하세요.
 
-![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/Untitled%2021.png)  
+![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/5.png)  
   
   - Input에 String 타입의 name과 Output에 String 타입의 outputName, date를 정의하세요
   - 서비스에 MAP을 추가 한 뒤, Transformer에 date:getCurrentDateString 서비스를 추가하세요.
