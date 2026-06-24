@@ -70,7 +70,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 - Adapter Service 명은 IF0013_SRC_S_01 로 입력 후 Next를 클릭합니다.
 
-![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new1.png)
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/Designer_Adapter_Create.png)
 
 **Note.** Adpater Service 의 네이밍 룰은 고객사별 상이하며, 일반적으로 IFID + SRC/TGT 시스템 명 + 로직 + 시퀀스 번호 로 구분하여 생성합니다.
 
