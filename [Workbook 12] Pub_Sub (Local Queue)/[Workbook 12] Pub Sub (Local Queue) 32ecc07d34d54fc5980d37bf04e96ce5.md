@@ -22,8 +22,8 @@
 
 #### STEP 4. 새로운 Flowservice 로 svc_IF0010_handleValidation 을 svc 폴더 아래 생성합니다. 
 
-- input 은 Document로 생성한 CUDO_SJH.IF0011.docs:docs_IF0011_Validation 를 참조하세요.
-- Document type 명을 문서 document type의 명과 동일하게 (CUDO_SJH.IF0011.docs:docs_IF0011_Validation) 으로 설정하세요.
+- input 은 Document로 생성한 EDU0000.IF0011.docs:docs_IF0011_Validation 를 참조하세요.
+- Document type 명을 문서 document type의 명과 동일하게 (EDU0000.IF0011.docs:docs_IF0011_Validation) 으로 설정하세요.
 **Note.** Document Type 컴포넌트를 클릭 후 CTRL + C 하여 Full Path 경로를 복사할 수 있습니다.
 
 ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/new4.png)
@@ -37,8 +37,8 @@
    ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/new6.png)
     
 - **Name** = **Condition1**
-- **Service** = **CUDO_SJH.IF0011.svc:svc_IF0010_handleValidation** 
-- **Document type** = **CUDO_SJH.IF0011.docs:docs_IF0011_Validation**
+- **Service** = **EDU0000.IF0011.svc:svc_IF0010_handleValidation** 
+- **Document type** = **EDU0000.IF0011.docs:docs_IF0011_Validation**
 - **Filter** = ***leave this empty***
         
   ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/new7.png)
@@ -59,7 +59,7 @@
         
   ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/new9.png)
         
-- Input 에 CUDO_SJH.IF0011.docs:docs_IF0011_Validation 을 참조 설정 후, 이름을 아래와 동일하게 설정합니다.
+- Input 에 EDU0000.IF0011.docs:docs_IF0011_Validation 을 참조 설정 후, 이름을 아래와 동일하게 설정합니다.
         
   ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/new10.png)
 
@@ -68,7 +68,7 @@
   ![Untitled](%5BWorkbook%2012%5D%20Pub%20Sub%20(Local%20Queue)%2032ecc07d34d54fc5980d37bf04e96ce5/new11.png)
         
   - **Validation** - **document** 매핑
-  - **documentTypeName : **CUDO_SJH.IF0011.docs:docs_IF0011_Validation 으**로 설정합니다.**
+  - **documentTypeName : **EDU0000.IF0011.docs:docs_IF0011_Validation 으**로 설정합니다.**
 
 #### STEP 10. svc_IF0010_publishValidation Flow 서비스를 저장하고 실행합니다. 이 서비스를 입력할 때 true 또는 false 값을 입력하십시오. 이 값은 서버 로그에 표시되어야 합니다.
 
