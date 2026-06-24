@@ -46,7 +46,7 @@
 
   - IF0005.svc 폴더 아래 새로운 svc_IF0005_conditionalMap 이라는 Flow service를 생성하세요. 
     
-  ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/Untitled%204.png)
+  ![Untitled](%5BWorkbook%206%5D%20Mapping%20Service%2032520d2f4376462f83bb53b45e0694d8/3.png)
     
   - MAP 서비스를 단계를 추가 합니다.
 
