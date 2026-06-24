@@ -171,7 +171,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 **Note.** Insert Adapter 의 Result Field 는 Adapter Service 의 실행 성공 유무에 따라 1 또는 0 으로 반환되며, 서비스 성공 시 1, 실패 시 0 이 반환됩니다.
 
 - 해당 서비스를 저장하고 다음과 같이 쿼리문을 실행시켜 결과값을 확인합니다.
-    - 해당 테이블의 PK 값은 ID 로 1~1000 까지는 더미 데이터가 생성되어 있습니다.
+    - 해당 테이블의 PK 값은 ID 로 1~100 까지는 더미 데이터가 생성되어 있습니다.
 
 ![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/new21.png)    
 
