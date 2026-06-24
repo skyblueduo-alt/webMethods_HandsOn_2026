@@ -27,7 +27,9 @@
 - getFile 서비스를 사용하여 서버에 위치한 file 데이터를 읽어 서비스를 구성합니다.
     
    ![Untitled](%5BWorkbook%2011%5D%20Create%20REST%20Service%20in%20Integration%20S%20a83f4bcce6ee49c0a838556798b4e09c/Untitled%204.png)
+  
   **파일 경로 : **/wm/IS01/books.json**
+  
    ![Untitled](%5BWorkbook%2011%5D%20Create%20REST%20Service%20in%20Integration%20S%20a83f4bcce6ee49c0a838556798b4e09c/Untitled%205.png)
     
 
