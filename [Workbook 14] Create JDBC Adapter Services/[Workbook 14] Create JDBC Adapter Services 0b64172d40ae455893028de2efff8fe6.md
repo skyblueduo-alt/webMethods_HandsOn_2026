@@ -13,7 +13,7 @@ JDBC Adapter Service 는 일종의 Database 에 쿼리문을 수행하는 서비
 
 #### STEP 1. 최상위 폴더 아래 IF0013 을 생성한 후 그 아래 svc, adpt 폴더를 생성합니다.
 
-![Workbook 14] Create JDBC Adapter Services/[Workbook 14] Create JDBC Adapter Services de5383e748184e9dbd34a7cff5d5864d/1.png
+![Untitled](%5BWorkbook%2014%5D%20Create%20JDBC%20Adapter%20Services%20de5383e748184e9dbd34a7cff5d5864d/1.png)
 
 #### STEP 2. IS Server에서 Adapter Connection Alias를 생성합니다.
 
