@@ -64,7 +64,8 @@ Nth Field는 스키마의 정의에 따라 Field를 구분하는 방식
 ![Untitled](%5BWorkbook%209%5D%20Working%20With%20Flat%20Files%20bacbba872fe74e12adf97c424524e971/Untitled%209.png)
     
 
-#### STEP 6. Package Navigator에서 addressFixed Flat File Schema를 우클릭 하여 작업을 저장하고 테스트 합니다. Run As → Flat File Schema 선택. Input 으로 ...\‌IntegrationServer\‌packages\‌AcmeSupport\‌pub\‌FlatFile\‌addressFixed.txt 파일을 찾습니다.
+#### STEP 6. Package Navigator에서 addressFixed Flat File Schema를 우클릭 하여 작업을 저장하고 테스트 합니다. Run As → Flat File Schema 선택. Input 으로 
+구글 드라이버에 존재하는 flatfile.txt 파일을 입력합니다.
     
 **Flat File Results view**에서 테스트 결과를 검사하십시오.
     
