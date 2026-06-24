@@ -11,7 +11,7 @@
 
 ## Steps
 
-#### STEP 0. IS 가 설치 된 서버 내 (Linux 기준) /webM/IS01/ 아래 test.txt 라는 파일을 미리 생성해 두었습니다.
+#### STEP 0. IS 가 설치 된 서버 내 (Linux 기준) /wm/IS01 아래 test.txt 라는 파일을 미리 생성해 두었습니다.
 ![Untitled](%5BWorkbook%205%5D%20Building%20Flow%20Services%20-%20SEQUENCE%20a8b9a6266353486e8a0b2ddefd0adee4/Untitled.png))
 
 #### STEP 1. 최상위 폴더 아래 IF0004와 IF0004.svc 폴더를 생성하고, 그 안에 svc_IF0004_riskOperation이라는 새 Flow service를 만듭니다. Input은 String으로 filename, Output은 String으로 result를 설정합니다. 
@@ -35,7 +35,7 @@
 ![Untitled](%5BWorkbook%205%5D%20Building%20Flow%20Services%20-%20SEQUENCE%20a8b9a6266353486e8a0b2ddefd0adee4/workbook5_step3.png)
     
 
-#### STEP 4. **Service**를 저장하고 실행합니다. **/webM/IS01/test.txt** 라는 값으로 **input 의 filename** 값을 입력합니다. (또는 존재하지 않는 다른 파일 명으로 입력 eg. /notthere.txt)  
+#### STEP 4. **Service**를 저장하고 실행합니다. **/wm/IS01/test.txt** 라는 값으로 **input 의 filename** 값을 입력합니다. (또는 존재하지 않는 다른 파일 명으로 입력 eg. /notthere.txt)  
     
 ![Untitled](%5BWorkbook%205%5D%20Building%20Flow%20Services%20-%20SEQUENCE%20a8b9a6266353486e8a0b2ddefd0adee4/Untitled%206.png)
 ![Untitled](%5BWorkbook%205%5D%20Building%20Flow%20Services%20-%20SEQUENCE%20a8b9a6266353486e8a0b2ddefd0adee4/Untitled%207.png)
@@ -87,7 +87,7 @@
 
 #### STEP 11. **Service**를 저장하고 실행합니다. **Results** 탭과 **IS Server log**를 확인합니다.
 - **실패하려면 /notthere.txt를** **파일로** **입력합니다. IS Server log에 error message가** **있는지** **확인합니다.**
-- **성공하려면 /webM/IS01/test.txt 를 입력합니다. 성공적으로 실행되면 파일 내용이 Results 탭에 표시되고 IS Server log에 error message가 표시되지 않습니다.**
+- **성공하려면 /wm/IS01/test.txt 를 입력합니다. 성공적으로 실행되면 파일 내용이 Results 탭에 표시되고 IS Server log에 error message가 표시되지 않습니다.**
 
 
 
