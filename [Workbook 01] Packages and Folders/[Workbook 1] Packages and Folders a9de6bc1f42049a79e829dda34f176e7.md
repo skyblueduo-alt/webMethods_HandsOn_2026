@@ -50,7 +50,7 @@
 
 ![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled%206.png)
 
-![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled%7.png)
+![Untitled](%5BWorkbook%201%5D%20Packages%20and%20Folders%2056c093055c3c4316823cf3b81439a900/Untitled7.png)
 
 **Note.** Integration Server 는 Folder 구조에 의해 컴포넌트들이 고유하게 식별되므로 Package 바로 하위 폴더는 Package 명과 동일하게 구성할 것을 권장 드립니다. (Namespace 충돌 방지)
 
