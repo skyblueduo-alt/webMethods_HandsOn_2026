@@ -78,7 +78,7 @@
         
 ![Untitled](%5BWorkbook%203%5D%20Building%20Flow%20Services%20-%20BRANCH%2016e22a6d373042f8b7c70b086784f6ca/Untitled%209.png)
 
-정규 표현식은 다음 링크를 참고하세요. [**(참고)**](https://documentation.softwareag.com/webmethods/designer/sdf10-15/webhelp/sdf-webhelp/index.html#page/sdf-webhelp%2Fto-regular_expressions.html%23)
+정규 표현식은 다음 링크를 참고하세요. [**(참고)**](https://www.ibm.com/docs/en/webmethods-integration/wm-designer/11.1.0?topic=expressions-regular-expression-operators)
 
 #### STEP 8. **Service**를 저장하고 테스트합니다. **IS Server log** 에서 결과를 확인합니다.     
     
