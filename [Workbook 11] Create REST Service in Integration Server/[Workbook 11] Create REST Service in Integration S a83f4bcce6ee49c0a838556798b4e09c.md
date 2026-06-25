@@ -32,7 +32,7 @@
   
    ![Untitled](%5BWorkbook%2011%5D%20Create%20REST%20Service%20in%20Integration%20S%20a83f4bcce6ee49c0a838556798b4e09c/getFile_loadAS.png)
   
-   ![Untitled](%5BWorkbook%2011%5D%20Create%20REST%20Service%20in%20Integration%20S%20a83f4bcce6ee49c0a838556798b4e09c/Untitled%205.png)
+   ![Untitled](%5BWorkbook%2011%5D%20Create%20REST%20Service%20in%20Integration%20S%20a83f4bcce6ee49c0a838556798b4e09c/input.png)
     
 
 #### STEP 5. 생성 된 REST Resource 를 사용하여 api_bookInformation_RD 라는 Element Name 으로 REST API Descriptor 를 생성합니다.
